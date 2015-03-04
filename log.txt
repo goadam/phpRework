@@ -1,0 +1,24 @@
+C:\CS290\phpRework [master]> git log
+commit 833b28c4a82e129f0a131ff635531991c5aa55ab
+Author: Adam Martinez <adam70181@yahoo.com>
+Date:   Wed Mar 4 14:53:33 2015 -0600
+
+    set folder structure
+
+commit a278273fe3f30bcb8eadcc8cc3c767c44e42742f
+Author: Adam Martinez <adam70181@yahoo.com>
+Date:   Wed Mar 4 14:47:15 2015 -0600
+
+    fixes and updates to content1, login, logout. Content 2 added with link
+
+commit ad860b89a97cef2d6fa05e0f3a62db342ebba9ec
+Author: Adam Martinez <adam70181@yahoo.com>
+Date:   Wed Mar 4 11:35:48 2015 -0600
+
+    Updated code, fixed errors.
+
+commit 7832bade4717c1f2f8a34305c3f027387e587b78
+Author: Adam Martinez <adam70181@yahoo.com>
+Date:   Wed Mar 4 11:31:42 2015 -0600
+
+    Initial commit
